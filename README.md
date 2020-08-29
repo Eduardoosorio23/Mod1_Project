@@ -1,5 +1,5 @@
 ### Microsoft's Intro Into The Movie Production Business
-By Eduardo Osorio, Henry Alpert
+By Eduardo Osorio
 
 ## The Project
 Microsoft is interested in creating a movie studio needs a better understanding 
@@ -53,7 +53,7 @@ Studio | Total Production Budget | Profitability
 Here is a graph showing the correlation between production budget and 
 profitability.
 
-![alt text](https://github.com/Eduardoosorio23/Mod1_Project/blob/master/Profitability%20distplot.png?raw=true "Profitability Distplot")
+![alt text](https://github.com/Eduardoosorio23/Mod1_Project/blob/master/Main%20Project%20file/images_EO/Profitability%20distplot.png?raw=true "Profitability Distplot")
 
 The graph suggests that movies with higher production budgets are more profitable.
 However, according to the data, movies with a production budget between $100 million
@@ -63,7 +63,7 @@ and $200 million are the most profitable.
 Genre popularity has changed over the years. With the data provided, we graphed 
 genre trends from the last ten years
 
-![alt text](https://github.com/Eduardoosorio23/Mod1_Project/blob/master/Genre%20Trends.png?raw=true "Genre Trends")
+![alt text](https://github.com/Eduardoosorio23/Mod1_Project/blob/master/Main%20Project%20file/images_EO/Genre%20Trends.png?raw=true "Genre Trends")
 
 According to these trends, the genres that are currently gaining popularity are
 the following: 
@@ -80,7 +80,7 @@ the following:
 In order to slim down this list, we graphed the total profitability of these genres 
 with in the last ten years.
 
-![alt text](https://github.com/Eduardoosorio23/Mod1_Project/blob/master/genre%20profitability.png?raw=true "Genre Profitability")
+![alt text](https://github.com/Eduardoosorio23/Mod1_Project/blob/master/Main%20Project%20file/images_EO/genre%20profitability.png?raw=true "Genre Profitability")
 
 With this graph were able to see which genres are the most profitable which are 
 as follows:
@@ -96,7 +96,7 @@ When producing a film the studio has to appeal to both domestic and foreign
 markets. If a studio makes a film aimed at one more then the other, Then
 there is a strong possibility that the fill will lose out on revenues.
 
-![alt text](https://github.com/Eduardoosorio23/Mod1_Project/blob/master/Most%20profitable%20studios.png?raw=true "Studio Gross")
+![alt text](https://github.com/Eduardoosorio23/Mod1_Project/blob/master/Main%20Project%20file/images_EO/Most%20profitable%20studios.png?raw=true "Studio Gross")
 
 This chart shows us how foreign Gross compares to domestic gross for the top the
 most profitable studios. In most cases foreign gross is substantially more then 
@@ -119,4 +119,4 @@ With more time, it would have been interesting to map out the movies with Produc
 budgets between $1 million and $ 50 million along with their respective genres.
 This would allow us to see which genres are more profitable at low budgets.
 
-![alt text](https://github.com/Eduardoosorio23/Mod1_Project/blob/master/jointplot.png?raw=true "jointplot")
+![alt text](https://github.com/Eduardoosorio23/Mod1_Project/blob/master/Main%20Project%20file/images_EO/jointplot.png?raw=true "jointplot")
